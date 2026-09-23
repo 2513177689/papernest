@@ -1,0 +1,2008 @@
+[
+  {
+    "arxiv_id": "2204.14198",
+    "title": "Flamingo: a visual language model for few-shot learning",
+    "authors": [
+      "Alayrac, J.-B., Donahue, J., Luc, P., Miech, A., Barr, I., Hasson, Y., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id408",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2010.02178",
+    "title": "Mind the PAD – CNNs can develop blind spots",
+    "authors": [
+      "Alsallakh, B., Kokhlikyan, N., Miglani, V., Yuan, J., & Reblitz-Richardson, O."
+    ],
+    "published": "2020",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id7",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2002.09018",
+    "title": "Scalable second-order optimization for deep learning",
+    "authors": [
+      "Anil, R., Gupta, V., Koren, T., Regan, K., & Singer, Y."
+    ],
+    "published": "2020",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id427",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1512.01274",
+    "title": "MXNET: a flexible and efficient machine learning library for heterogeneous distributed systems",
+    "authors": [
+      "Chen, T., Li, M., Li, Y., Lin, M., Wang, N., Wang, M., … Zhang, Z."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "system"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id37",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1603.07285",
+    "title": "A guide to convolution arithmetic for deep learning",
+    "authors": [
+      "Dumoulin, V., & Visin, F."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id63",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1511.06939",
+    "title": "Session-based recommendations with recurrent neural networks",
+    "authors": [
+      "Hidasi, B., Karatzoglou, A., Baltrunas, L., & Tikk, D."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "recommendation"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id115",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1312.5602",
+    "title": "Playing Atari with deep reinforcement learning",
+    "authors": [
+      "Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M."
+    ],
+    "published": "2013",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "reinforcement learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id466",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1511.06434",
+    "title": "Unsupervised representation learning with deep convolutional generative adversarial networks",
+    "authors": [
+      "Radford, A., Metz, L., & Chintala, S."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "generative model"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id221",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1409.0473",
+    "title": "Neural machine translation by jointly learning to align and translate",
+    "authors": [
+      "Bahdanau, D., Cho, K., & Bengio, Y."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id10",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2305.10403",
+    "title": "PaLM 2 Technical Report",
+    "authors": [
+      "Anil, R., Dai, A. M., Firat, O., Johnson, M., Lepikhin, D., Passos, A., … et al."
+    ],
+    "published": "2023",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id480",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1607.06450",
+    "title": "Layer normalization",
+    "authors": [
+      "Ba, J. L., Kiros, J. R., & Hinton, G. E."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id9",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1810.05934",
+    "title": "Massively parallel hyperparameter tuning",
+    "authors": [
+      "Li, L., Jamieson, K., Rostamizadeh, A., Gonina, K., Hardt, M., Recht, B., & Talwalkar, A."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "system"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id436",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1404.2188",
+    "title": "A convolutional neural network for modelling sentences",
+    "authors": [
+      "Kalchbrenner, N., Grefenstette, E., & Blunsom, P."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id141",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1611.01578",
+    "title": "Neural architecture search with reinforcement learning",
+    "authors": [
+      "Zoph, B., & Le, Q. V."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "reinforcement learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id360",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2205.11487",
+    "title": "Photorealistic text-to-image diffusion models with deep language understanding",
+    "authors": [
+      "Saharia, C., Chan, W., Saxena, S., Li, L., Whang, J., Denton, E., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "nlp",
+      "generative model"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id409",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1508.05326",
+    "title": "A large annotated corpus for learning natural language inference",
+    "authors": [
+      "Bowman, S. R., Angeli, G., Potts, C., & Manning, C. D."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id25",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2212.08073",
+    "title": "Constitutional AI: harmlessness from AI feedback",
+    "authors": [
+      "Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id483",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1802.02219",
+    "title": "Practical transfer learning for Bayesian optimization",
+    "authors": [
+      "Feurer, M., Letham, B., Hutter, F., & Bakshy, E."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id432",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1807.05118",
+    "title": "Tune: a research platform for distributed model selection and training",
+    "authors": [
+      "Liaw, R., Liang, E., Nishihara, R., Moritz, P., Gonzalez, J., & Stoica, I."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization",
+      "system"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id442",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1408.5882",
+    "title": "Convolutional neural networks for sentence classification",
+    "authors": [
+      "Kim, Y."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id145",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2201.11990",
+    "title": "Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, a large-scale generative language model",
+    "authors": [
+      "Smith, S., Patwary, M., Norick, B., LeGresley, P., Rajbhandari, S., Casper, J., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "generative model"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id397",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1409.1259",
+    "title": "On the properties of neural machine translation: Encoder–decoder approaches",
+    "authors": [
+      "Cho, K., Van Merriënboer, B., Bahdanau, D., & Bengio, Y."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id40",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2004.05150",
+    "title": "Longformer: the long-document transformer",
+    "authors": [
+      "Beltagy, I., Peters, M. E., & Cohan, A."
+    ],
+    "published": "2020",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id454",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1807.02811",
+    "title": "A tutorial on Bayesian optimization",
+    "authors": [
+      "Frazier, P. I."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id72",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1802.05799",
+    "title": "Horovod: fast and easy distributed deep learning in TensorFlow",
+    "authors": [
+      "Sergeev, A., & Del Balso, M."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "system"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id255",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1609.02907",
+    "title": "Semi-supervised classification with graph convolutional networks",
+    "authors": [
+      "Kipf, T. N., & Welling, M."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id149",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1406.1078",
+    "title": "Learning phrase representations using RNN encoder–decoder for statistical machine translation",
+    "authors": [
+      "Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id41",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2108.07258",
+    "title": "On the opportunities and risks of foundation models",
+    "authors": [
+      "Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., … et al."
+    ],
+    "published": "2021",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id420",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2203.15556",
+    "title": "Training compute-optimal large language models",
+    "authors": [
+      "Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id399",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1909.08053",
+    "title": "Megatron-LM: training multi-billion parameter language models using model parallelism",
+    "authors": [
+      "Shoeybi, M., Patwary, M., Puri, R., LeGresley, P., Casper, J., & Catanzaro, B."
+    ],
+    "published": "2019",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "optimization",
+      "system"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id396",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1810.05148",
+    "title": "Bayesian deep convolutional networks with many channels are Gaussian processes",
+    "authors": [
+      "Novak, R., Xiao, L., Lee, J., Bahri, Y., Yang, G., Hron, J., … Sohl-Dickstein, J."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id371",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2204.02311",
+    "title": "PaLM: scaling language modeling with pathways",
+    "authors": [
+      "Chowdhery, A., Narang, S., Devlin, J., Bosma, M., Mishra, G., Roberts, A., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id401",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1508.01211",
+    "title": "Listen, attend and spell",
+    "authors": [
+      "Chan, W., Jaitly, N., Le, Q. V., & Vinyals, O."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id270",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1502.03167",
+    "title": "Batch normalization: accelerating deep network training by reducing internal covariate shift",
+    "authors": [
+      "Ioffe, S., & Szegedy, C."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id133",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1409.1556",
+    "title": "Very deep convolutional networks for large-scale image recognition",
+    "authors": [
+      "Simonyan, K., & Zisserman, A."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id260",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1412.3555",
+    "title": "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+    "authors": [
+      "Chung, J., Gulcehre, C., Cho, K., & Bengio, Y."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id43",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1410.0759",
+    "title": "CuDNN: Efficient primitives for deep learning",
+    "authors": [
+      "Chetlur, S., Woolley, C., Vandermersch, P., Cohen, J., Tran, J., Catanzaro, B., & Shelhamer, E."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id39",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1807.11205",
+    "title": "Highly scalable deep learning training system with mixed-precision: training ImageNet in four minutes",
+    "authors": [
+      "Jia, X., Song, S., He, W., Wang, Y., Rong, H., Zhou, F., … et al."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id139",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1708.07747",
+    "title": "Fashion-MNIST: a novel image dataset for benchmarking machine learning algorithms",
+    "authors": [
+      "Xiao, H., Rasul, K., & Vollgraf, R."
+    ],
+    "published": "2017",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id320",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1308.0850",
+    "title": "Generating sequences with recurrent neural networks",
+    "authors": [
+      "Graves, A."
+    ],
+    "published": "2013",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id95",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1410.8516",
+    "title": "NICE: non-linear independent components estimation",
+    "authors": [
+      "Dinh, L., Krueger, D., & Bengio, Y."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id477",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1412.6980",
+    "title": "Adam: a method for stochastic optimization",
+    "authors": [
+      "Kingma, D. P., & Ba, J."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id147",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1301.3557",
+    "title": "Stochastic pooling for regularization of deep convolutional neural networks",
+    "authors": [
+      "Zeiler, M. D., & Fergus, R."
+    ],
+    "published": "2013",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id330",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1508.01991",
+    "title": "Bidirectional LSTM–CRF models for sequence tagging",
+    "authors": [
+      "Huang, Z., Xu, W., & Yu, K."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id128",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2012.09699",
+    "title": "A generalization of transformer networks to graphs",
+    "authors": [
+      "Dwivedi, V. P., & Bresson, X."
+    ],
+    "published": "2020",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id457",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1910.13461",
+    "title": "BART: denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension",
+    "authors": [
+      "Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., … Zettlemoyer, L."
+    ],
+    "published": "2019",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id386",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2110.06864",
+    "title": "ByteTrack: multi-object tracking by associating every detection box",
+    "authors": [
+      "Zhang, Y., Sun, P., Jiang, Y., Yu, D., Yuan, Z., Luo, P., … Wang, X."
+    ],
+    "published": "2021",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id332",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2001.08361",
+    "title": "Scaling laws for neural language models",
+    "authors": [
+      "Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., … Amodei, D."
+    ],
+    "published": "2020",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id393",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1808.05377",
+    "title": "Neural architecture search: a ssurvey",
+    "authors": [
+      "Elsken, T., Metzen, J. H., & Hutter, F."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id450",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1907.11692",
+    "title": "RoBERTa: a robustly optimized BERT pretraining approach",
+    "authors": [
+      "Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., … Stoyanov, V."
+    ],
+    "published": "2019",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id177",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1909.11942",
+    "title": "ALBERT: a lite BERT for self-supervised learning of language representations",
+    "authors": [
+      "Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R."
+    ],
+    "published": "2019",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id389",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1803.03635",
+    "title": "The lottery ticket hypothesis: finding sparse, trainable neural networks",
+    "authors": [
+      "Frankle, J., & Carbin, M."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id71",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1608.03983",
+    "title": "SGDR: stochastic gradient descent with warm restarts",
+    "authors": [
+      "Loshchilov, I., & Hutter, F."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id179",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2206.14858",
+    "title": "Solving quantitative reasoning problems with language models",
+    "authors": [
+      "Lewkowycz, A., Andreassen, A., Dohan, D., Dyer, E., Michalewski, H., Ramasesh, V., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id416",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1810.13243",
+    "title": "A closer look at deep learning heuristics: learning rate restarts, warmup and distillation",
+    "authors": [
+      "Gotmare, A., Keskar, N. S., Xiong, C., & Socher, R."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id92",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1809.00846",
+    "title": "Towards understanding regularization in batch normalization",
+    "authors": [
+      "Luo, P., Wang, X., Shao, W., & Peng, Z."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id181",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1506.00019",
+    "title": "A critical review of recurrent neural networks for sequence learning",
+    "authors": [
+      "Lipton, Z. C., Berkowitz, J., & Elkan, C."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id174",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2110.07641",
+    "title": "Non-deep networks",
+    "authors": [
+      "Goyal, A., Bochkovskiy, A., Deng, J., & Koltun, V."
+    ],
+    "published": "2021",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id93",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2210.01738",
+    "title": "ASIF: coupled data turns unimodal models to multimodal without training",
+    "authors": [
+      "Norelli, A., Fumero, M., Maiorca, V., Moschella, L., Rodolà, E., & Locatello, F."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id125",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1301.3781",
+    "title": "Efficient estimation of word representations in vector space",
+    "authors": [
+      "Mikolov, T., Chen, K., Corrado, G., & Dean, J."
+    ],
+    "published": "2013",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id191",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1412.6071",
+    "title": "Fractional max-pooling",
+    "authors": [
+      "Graham, B."
+    ],
+    "published": "2014",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id94",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "authors": [
+      "Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id467",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1606.01933",
+    "title": "A decomposable attention model for natural language inference",
+    "authors": [
+      "Parikh, A. P., Täckström, O., Das, D., & Uszkoreit, J."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id207",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1606.04487",
+    "title": "Omnivore: an optimizer for multi-device deep learning on CPUs and GPUs",
+    "authors": [
+      "Hadjis, S., Zhang, C., Mitliagkas, I., Iter, D., & Ré, C."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id101",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2112.11446",
+    "title": "Scaling language models: methods, analysis & insights from training gopher",
+    "authors": [
+      "Rae, J. W., Borgeaud, S., Cai, T., Millican, K., Hoffmann, J., Song, F., … et al."
+    ],
+    "published": "2021",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id394",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2302.06476",
+    "title": "Is ChatGPT a general-purpose natural language processing task solver?",
+    "authors": [
+      "Qin, C., Zhang, A., Zhang, Z., Chen, J., Yasunaga, M., & Yang, D."
+    ],
+    "published": "2023",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id487",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1606.08415",
+    "title": "Gaussian error linear units (GELUs)",
+    "authors": [
+      "Hendrycks, D., & Gimpel, K."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id111",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1904.09237",
+    "title": "On the convergence of Adam and beyond",
+    "authors": [
+      "Reddi, S. J., Kale, S., & Kumar, S."
+    ],
+    "published": "2019",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id229",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1606.05250",
+    "title": "SQuAD: 100,000+ questions for machine comprehension of text",
+    "authors": [
+      "Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id226",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1803.05407",
+    "title": "Averaging weights leads to wider optima and better generalization",
+    "authors": [
+      "Izmailov, P., Podoprikhin, D., Garipov, T., Vetrov, D., & Wilson, A. G."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id134",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2110.08207",
+    "title": "Multitask prompted training enables zero-shot task generalization",
+    "authors": [
+      "Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., … et al."
+    ],
+    "published": "2021",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id482",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2204.06125",
+    "title": "Hierarchical text-conditional image generation with clip latents",
+    "authors": [
+      "Ramesh, A., Dhariwal, P., Nichol, A., Chu, C., & Chen, M."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id407",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1710.10196",
+    "title": "Progressive growing of GANs for improved quality, stability, and variation",
+    "authors": [
+      "Karras, T., Aila, T., Laine, S., & Lehtinen, J."
+    ],
+    "published": "2017",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id143",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2210.08402",
+    "title": "LAION-5B: an open large-scale dataset for training next generation image-text models",
+    "authors": [
+      "Schuhmann, C., Beaumont, R., Vencu, R., Gordon, C., Wightman, R., Cherti, M., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "nlp",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id421",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1910.01108",
+    "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+    "authors": [
+      "Sanh, V., Debut, L., Chaumond, J., & Wolf, T."
+    ],
+    "published": "2019",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id390",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1701.03360",
+    "title": "Residual LSTM: design of a deep recurrent architecture for distant speech recognition",
+    "authors": [
+      "Kim, J., El-Khamy, M., & Lee, J."
+    ],
+    "published": "2017",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id429",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1708.03888",
+    "title": "Large batch training of convolutional networks",
+    "authors": [
+      "You, Y., Gitman, I., & Ginsburg, B."
+    ],
+    "published": "2017",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "optimization"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id326",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2211.05100",
+    "title": "BLOOM: a 176B-parameter open-access multilingual language model",
+    "authors": [
+      "Scao, T. L., Fan, A., Akiki, C., Pavlick, E., Ilić, S., Hesslow, D., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id488",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1312.4400",
+    "title": "Network in network",
+    "authors": [
+      "Lin, M., Chen, Q., & Yan, S."
+    ],
+    "published": "2013",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id168",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1508.07909",
+    "title": "Neural machine translation of rare words with subword units",
+    "authors": [
+      "Sennrich, R., Haddow, B., & Birch, A."
+    ],
+    "published": "2015",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id254",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1703.03130",
+    "title": "A structured self-attentive sentence embedding",
+    "authors": [
+      "Lin, Z., Feng, M., Santos, C. N. d., Yu, M., Xiang, B., Zhou, B., & Bengio, Y."
+    ],
+    "published": "2017",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id169",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1803.02155",
+    "title": "Self-attention with relative position representations",
+    "authors": [
+      "Shaw, P., Uszkoreit, J., & Vaswani, A."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id368",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1806.09055",
+    "title": "DARTS: differentiable architecture search",
+    "authors": [
+      "Liu, H., Simonyan, K., & Yang, Y."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id361",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2206.04615",
+    "title": "Beyond the imitation game: quantifying and extrapolating the capabilities of language models",
+    "authors": [
+      "Srivastava, A., Rastogi, A., Rao, A., Shoeb, A. A. M., Abid, A., Fisch, A., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id415",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2201.03545",
+    "title": "A convNet for the 2020s",
+    "authors": [
+      "Liu, Z., Mao, H., Wu, C.-Y., Feichtenhofer, C., Darrell, T., & Xie, S."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id362",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2211.09085",
+    "title": "Galactica: a large language model for science",
+    "authors": [
+      "Taylor, R., Kardas, M., Cucurull, G., Scialom, T., Hartshorn, A., Saravia, E., … Stojnic, R."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id484",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1804.11271",
+    "title": "Gaussian process behaviour in wide deep neural networks",
+    "authors": [
+      "Matthews, A. G. d. G., Rowland, M., Hron, J., Turner, R. E., & Ghahramani, Z."
+    ],
+    "published": "2018",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id370",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2109.01652",
+    "title": "Finetuned language models are zero-shot learners",
+    "authors": [
+      "Wei, J., Bosma, M., Zhao, V. Y., Guu, K., Yu, A. W., Lester, B., … Le, Q. V."
+    ],
+    "published": "2021",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id481",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1609.07843",
+    "title": "Pointer sentinel mixture models",
+    "authors": [
+      "Merity, S., Xiong, C., Bradbury, J., & Socher, R."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id189",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2206.07682",
+    "title": "Emergent abilities of large language models",
+    "authors": [
+      "Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., … et al."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id404",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2303.08774",
+    "title": "GPT-4 Technical Report",
+    "authors": [
+      "OpenAI."
+    ],
+    "published": "2023",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id479",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2201.11903",
+    "title": "Chain of thought prompting elicits reasoning in large language models",
+    "authors": [
+      "Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D."
+    ],
+    "published": "2022",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id468",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1705.04304",
+    "title": "A deep reinforced model for abstractive summarization",
+    "authors": [
+      "Paulus, R., Xiong, C., & Socher, R."
+    ],
+    "published": "2017",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id210",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1609.08144",
+    "title": "Google's neural machine translation system: bridging the gap between human and machine translation",
+    "authors": [
+      "Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., … et al."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id318",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "2306.01116",
+    "title": "The RefinedWeb dataset for Falcon LLM: outperforming curated corpora with web data, and web data only",
+    "authors": [
+      "Penedo, G., Malartic, Q., Hesslow, D., Cojocaru, R., Cappelli, A., Alobeidli, H., … Launay, J."
+    ],
+    "published": "2023",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id489",
+        "type": "教材参考文献"
+      }
+    ]
+  },
+  {
+    "arxiv_id": "1607.05108",
+    "title": "Neural machine translation with recurrent attention modeling",
+    "authors": [
+      "Yang, Z., Hu, Z., Deng, Y., Dyer, C., & Smola, A."
+    ],
+    "published": "2016",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "curation": "教材参考文献中的延伸阅读，可结合对应主题学习；入选不代表适合所有研究方向。",
+    "evidence": [
+      {
+        "label": "Dive into Deep Learning · References",
+        "url": "https://d2l.ai/chapter_references/zreferences.html#id272",
+        "type": "教材参考文献"
+      }
+    ]
+  }
+]

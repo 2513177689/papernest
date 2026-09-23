@@ -171,14 +171,14 @@ async def paper_list(view='library',direction_id='',mode='recommended',q='',stat
     d=direction_or_default(direction_id)
     if view=='today':rows=recommend.daily(d,mode) if d['id']!='none' else []
     elif view=='classics':
-        rows=[p for p in recommend.rank(d) if p.get('classic')]
-        if mode=='personal' and d['id']!='none':rows=[p for p in rows if not p['excluded'] and p['rank_score']>=.18]
+        rows=recommend.classics(d,mode)
     else:rows=[p for p in db.all_rows('papers') if p.get('saved')]
     if status:rows=[p for p in rows if p.get('status')==status]
     if collection:rows=[p for p in rows if collection in p.get('collections',[])]
     if q:
         query=q.lower();note_ids={n['paper_id'] for n in db.notes() if query in (n['text']+' '+n['quote']).lower()}
         rows=[p for p in rows if query in (sources_doc(p)).lower() or p['id'] in note_ids]
+    if view=='classics':rows=rows[:100]
     return [compact(p) for p in rows]
 
 

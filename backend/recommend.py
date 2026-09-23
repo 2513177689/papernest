@@ -82,6 +82,27 @@ def rank(direction,papers=None):
     return sorted(results,key=lambda p:(not bool(p['excluded']),p['rank_score'],p.get('published','')),reverse=True)
 
 
+def classics(direction,mode='personal'):
+    """Reading priority, not a scientific quality score; never calls a paid model."""
+    personal=mode=='personal' and direction.get('id')!='none'
+    rows=rank(direction,[p for p in db.all_rows('papers') if p.get('classic')])
+    results=[]
+    for p in rows:
+        if p['excluded']:continue
+        if personal and p['rank_score']<.18:continue
+        kinds={e.get('type') for e in p.get('evidence',[]) if e.get('url','').startswith(('https://','http://'))}
+        evidence=40 if kinds & {'教材章节','官方技术文档'} else 30 if '教材参考文献' in kinds else 20 if kinds else 0
+        try:age=max(0,date.today().year-int(p.get('published','')[:4]))
+        except (ValueError,TypeError):age=0
+        maturity=min(age*2,20)
+        relevance=round(min(1,max(0,p['rank_score']))*40,1) if personal else 0
+        score=round(evidence+maturity+relevance,1) if personal else round((evidence+maturity)/60*100,1)
+        grade='S' if score>=90 else 'A' if score>=75 else 'B' if score>=60 else 'C'
+        results.append(p | {'classic_score':score,'classic_grade':grade,'score_parts':{'evidence':evidence,'maturity':maturity,'relevance':relevance},'score_scope':'personal' if personal else 'all'})
+    results.sort(key=lambda p:(-p['classic_score'],p.get('published',''),p['id']))
+    return [p | {'classic_rank':i+1} for i,p in enumerate(results)]
+
+
 def select_diverse(rows,limit):
     chosen=[];remaining=list(rows)
     while remaining and len(chosen)<limit:

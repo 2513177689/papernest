@@ -37,6 +37,10 @@ CLASSICS = [
 ]
 
 
+from pathlib import Path
+import json
+CLASSICS += json.loads(Path(__file__).with_name('classics.json').read_text(encoding='utf-8'))
+
 def seed():
     from . import db
     for c in COURSES:
@@ -44,9 +48,12 @@ def seed():
             db.put('courses',c['id'],dict(c,status='未学习',saved=False,verified='2026-09-19'))
     for p in CLASSICS:
         key='arxiv-'+p['arxiv_id']
-        current=db.get('papers',key)
+        current=db.get('papers',key) or next((row for row in db.all_rows('papers') if row.get('arxiv_id')==p['arxiv_id']),None)
         if current:
+            key=current['id']
             current['tags']=list(dict.fromkeys(current.get('tags',[])+p['tags']))
+            if not current.get('classic') and not current.get('evidence'):
+                current.update(classic=True,curation=p['curation'],evidence=p['evidence'])
             db.put('papers',key,current)
         if not db.get('papers',key):
             db.put('papers',key,dict(p,id=key,doi='',abstract='',source='人工精选',
